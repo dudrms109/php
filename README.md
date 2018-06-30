@@ -1,1 +1,2 @@
 # php test
+homepage example
